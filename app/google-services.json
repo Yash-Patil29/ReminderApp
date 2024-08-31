@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478134452339",
+    "firebase_url": "https://reminder-e8487-default-rtdb.firebaseio.com",
+    "project_id": "reminder-e8487",
+    "storage_bucket": "reminder-e8487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478134452339:android:beb6a8866272f13c6eaa06",
+        "android_client_info": {
+          "package_name": "com.example.finalyearreminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478134452339-95bvt2ioigg9dsbshq05bbini2k5n9oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfUXJRTyW0AWusIm0BED6XE2Ant9j58Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478134452339-95bvt2ioigg9dsbshq05bbini2k5n9oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
